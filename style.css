@@ -1,0 +1,55 @@
+body{
+    padding-left: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+     width:50%;
+     
+}
+.half-width img{
+    width:50%;
+    padding-left: 10%;
+}
+#left-border{
+    border-left: 4px solid red;
+    border-radius: 4px;   
+}
+.link-buttons{
+    margin-top: 10px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    
+    background-color: crimson ;
+    border-radius: 6%;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+footer{
+    padding-top: .05px;
+    padding-bottom: 005px;
+    text-align: center;
+    background-color: black;
+}
+.footer-text-color{
+    color: blanchedalmond;
+}
+#red-color{
+    color: red;
+}
