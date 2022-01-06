@@ -24,15 +24,24 @@ section{
     width:50%;
     padding-left: 10%;
 }
-#left-border{
+.vline{
+    
+    
     border-left: 4px solid red;
-    border-radius: 4px;   
+    height: 90px;
+    margin-top: 13px;
+    border-radius: 4px;    
+    position: absolute;
+    margin-right: 100px;
+}
+#padding-from-vline{
+    padding-left: 10px;
 }
 .link-buttons{  
     text-decoration: none;
     display: inline-block;
     padding: 10px 20px;
-    background-color: crimson ;
+    background-color: rgb(20, 90, 220) ;
     border-radius: 5px;
     color: whitesmoke;
 }
@@ -79,8 +88,9 @@ section{
 }
 .section4{
     width:50%;
-    padding-right: 4%;
+    padding-left: 4%;
 }
+
 
 
 
